@@ -1,8 +1,8 @@
 Se testeó el programa siguiendo estos pasos:
 
-```git clone -b entrega https://github.com/tomasjm/tarea-protocolos-2```
+```git clone https://github.com/tomasjm/tarea-protocolos-entrega```
 
-```cd tarea-protocolos-2```
+```cd tarea-protocolos-entrega```
 
 ```make```
 
